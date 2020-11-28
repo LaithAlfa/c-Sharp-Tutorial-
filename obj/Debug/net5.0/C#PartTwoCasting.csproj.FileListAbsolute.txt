@@ -1,0 +1,16 @@
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.exe
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.deps.json
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.runtimeconfig.json
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.runtimeconfig.dev.json
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.dll
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\ref\C#PartTwoCasting.dll
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\bin\Debug\net5.0\C#PartTwoCasting.pdb
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.csprojAssemblyReference.cache
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.AssemblyInfoInputs.cache
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.AssemblyInfo.cs
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.csproj.CoreCompileInputs.cache
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.dll
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\ref\C#PartTwoCasting.dll
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.pdb
+C:\Users\PC_1\Documents\C#Sharp Tutorial\C#PartTwoCasting\obj\Debug\net5.0\C#PartTwoCasting.genruntimeconfig.cache
