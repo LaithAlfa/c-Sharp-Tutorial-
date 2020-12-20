@@ -44,3 +44,7 @@
 *(do this on every commit - kinda like a save): git init -m 'new changes made'
 
 *(do this every time you want to save to the server): git push -u origin master
+
+--------------------------------------------------------------------------
+
+will merge two project together 
